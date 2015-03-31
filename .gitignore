@@ -15,7 +15,7 @@
 
 # Ignore sensitive Config files
 /config/*
-/.idea/*
+.idea/*
 Rakefile
 Gemfile
 Gemfile.lock
