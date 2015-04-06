@@ -17,9 +17,6 @@
 /config/*
 .idea/*
 /doc/*
-Rakefile
-Gemfile
-Gemfile.lock
 .gitignore~
 *.keep
 README.md~
